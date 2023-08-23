@@ -1,0 +1,3 @@
+Measuring Text Similarity using Vector Space Model
+
+NLP Cosine Similarity is a technique used in Natural Language Processing (NLP) to quantify the similarity between two pieces of text by treating them as vectors in a high-dimensional space. By measuring the cosine of the angle between these vectors, it assesses their similarity regardless of text length. This method finds applications in various NLP tasks, such as document clustering, information retrieval, and recommendation systems, enabling efficient and effective text comparison in diverse contexts.

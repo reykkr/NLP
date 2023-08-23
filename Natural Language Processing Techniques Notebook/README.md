@@ -1,0 +1,3 @@
+Natural Language Processing Techniques Notebook
+
+This notebook explores fundamental Natural Language Processing (NLP) techniques, including tokenization, stemming, lemmatization, part-of-speech (POS) tagging, and chunking. Each technique is explained and demonstrated using Python code examples. Tokenization involves splitting text into individual words or tokens. Stemming reduces words to their root form, while lemmatization considers the word's lemma or base form. POS tagging assigns grammatical tags to words. Lastly, chunking groups words into meaningful chunks, aiding in information extraction. The notebook provides a hands-on understanding of these techniques' applications in NLP tasks.
