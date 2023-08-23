@@ -7,4 +7,4 @@ Done in the following courses:
 
 Natural Language Processing - Catholic University of Lille
 
-Natural Language Processing - Lebanese International University
+CSCI 372 - Natural Language Processing - Lebanese International University
